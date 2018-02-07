@@ -10,6 +10,8 @@ They are patterns, meaning they are created by experienced developers who have p
 
 **Behavioral**: how objects communicate and interact.
 
+* State pattern
+
 **Structural**: how to organize objects.
 
 **Creational**: how to create objects.
