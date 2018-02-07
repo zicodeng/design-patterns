@@ -13,3 +13,17 @@ They are patterns, meaning they are created by experienced developers who have p
 **Structural**: how to organize objects.
 
 **Creational**: how to create objects.
+
+## Development
+
+Install all dependencies first.
+
+    npm install
+
+Run watch-build.
+
+    npm run watch-build
+
+Test output with nodemon.
+
+    nodemon ./build/<output-file>
