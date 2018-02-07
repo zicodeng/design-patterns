@@ -14,6 +14,8 @@ They are patterns, meaning they are created by experienced developers who have p
 
 **Creational**: how to create objects.
 
+* Singleton
+
 ## Development
 
 Install all dependencies first.
