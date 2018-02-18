@@ -10,9 +10,17 @@ They are patterns, meaning they are created by experienced developers who have p
 
 **Behavioral**: how objects communicate and interact.
 
-* State pattern
+* State
+* Strategy
+* Observer
+* Template
 
 **Structural**: how to organize objects.
+
+* Adapter
+* Decorator
+* Proxy
+* Composite
 
 **Creational**: how to create objects.
 
